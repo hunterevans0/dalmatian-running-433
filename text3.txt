@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 document 3 on branch
 =======
-document 3 on master
+document 3 on branch1
 >>>>>>> master
