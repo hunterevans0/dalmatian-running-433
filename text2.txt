@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 document 2 Changed on master
+=======
+document 2 Changed on test_merge
+>>>>>>> test_merge
