@@ -1,3 +1,4 @@
 document 1 new pull request test_merge test
 new test
 new test 1
+new test 2
